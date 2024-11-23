@@ -25,5 +25,5 @@ app.get("/api",(req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log("servidor escutando..");
+    console.log("servidor escutando...");
 });
